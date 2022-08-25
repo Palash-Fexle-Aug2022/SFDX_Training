@@ -13,7 +13,6 @@
 		<name>CustomApplication</name>
 	</types>
 	<types>
-		<members>Account.Demo_Phone__c</members>
 		<members>DreamWorld__c.Dream_World_Title__c</members>
 		<name>CustomField</name>
 	</types>
