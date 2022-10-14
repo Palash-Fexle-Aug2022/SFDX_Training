@@ -1,0 +1,17 @@
+<!--
+*
+*  Purpose          :   Page to have with/without sharing based concepts demonstration.
+*
+*  Created Date     :   10/06/2022
+*
+*  Created By       :   Abhinav Sharma
+*
+*  Revision Logs    :   V_1.0 - Created
+*
+-->
+<apex:page standardController="School__c" extensions="PlayingWithSharingConcepts" lightningStylesheets="true" 
+           standardStylesheets="true" sidebar="false">
+    <h1>
+        Loaded Successfully !!!!!
+    </h1>
+</apex:page>
